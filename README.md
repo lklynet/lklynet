@@ -1,4 +1,4 @@
-# lee kelly
+# *l*ee *k*e*l*l*y*
 
 I build and grow open-source products.
 
